@@ -1,4 +1,4 @@
-Twitter Tweet Extractor
+# Twitter Tweet Extractor
 
 This repository contains a Python script that logs into Twitter, searches for specific tweets, and prints their content using Selenium and BeautifulSoup.
 
